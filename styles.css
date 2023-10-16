@@ -21,12 +21,12 @@ form{
 }
 
 h2{
-    color: #283629;
+    color: #4e0110;
     font-size: 35px;
 }
 
 label{
-    color: #283629;
+    color: #db7c26;
     font-size: 15px;
     font-weight: 600;
     margin-bottom: 15px;
@@ -36,14 +36,14 @@ input, textarea{
     padding: 17px 25px;
     border-radius: 25px;
     margin-bottom: 20px;
-    background-color: #EDFFF8;
+    background-color: #f7b538;
     border: 2px solid #F0FAF1;
-    color: #283629;
+    color: #db7c26;
     outline: none;
 }
 
 input::placeholder, textarea::placeholder{
-    color: #b5cab6;
+    color: #d8572a;
 }
 
 .form-txt{
@@ -54,7 +54,7 @@ input::placeholder, textarea::placeholder{
 }
 
 .form-txt a{
-    color: #76b28e;
+    color: #db7c26;
     font-size: 14px;
     font-weight: 600;
     text-decoration: none;
@@ -65,7 +65,7 @@ input::placeholder, textarea::placeholder{
     color: white;
     border: 0;
     border-radius: 25px;
-    background-color: #51D94C;
+    background-color: #d8572a;
     box-shadow: 0 0 2px rgba(25, 254, 0, 0.4);
     cursor: pointer;
 }
